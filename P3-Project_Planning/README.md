@@ -15,6 +15,9 @@ For this assignment, you'll create some initial plans for your project.
 <ul>
 <li>https://github.com/Maestro3663/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/Page1.jpg</li>
 <li>https://github.com/Maestro3663/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/Page2.jpg</li>
+<li>https://github.com/Maestro3663/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/Page3.jpg</li>
+<li>https://github.com/Maestro3663/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/Page4.jpg</li>
+<li>https://github.com/Maestro3663/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/Page5.jpg</li>
 </ul>
 </html>
 
