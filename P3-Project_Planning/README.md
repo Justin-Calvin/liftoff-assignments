@@ -27,4 +27,4 @@ https://www.pivotaltracker.com/n/projects/2240047
 
 ### Project Repo Link
 
-https://github.com/Maestro3663/Mybrary.git
+https://github.com/Maestro3663/mybrary.git
